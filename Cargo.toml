@@ -1,5 +1,5 @@
 [package]
-name = "posthog-rs"
+name = "posthog-unofficial"
 license = "MIT"
 version = "0.2.3"
 authors = ["christos <christos@openquery.io>"]
