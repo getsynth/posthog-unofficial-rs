@@ -2,7 +2,7 @@
 name = "posthog-unofficial"
 license = "MIT"
 version = "0.2.3"
-authors = ["christos <christos@openquery.io>"]
+authors = ["christos <christos@openquery.io>", "s e <iamawacko@protonmail.com>"]
 description = "An unofficial Rust client for Posthog (https://posthog.com/)."
 repository = "https://github.com/getsynth/posthog-unofficial-rs"
 edition = "2018"
